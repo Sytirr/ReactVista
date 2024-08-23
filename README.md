@@ -7,6 +7,7 @@ It is a web app using React js as frontend with Google Authentication and jwt au
 How to run this app
 1. Ensure you put your Google Oauth client id in the src/index.js folder.
 2. Make sure you put your own MONGOURI and JWT_SECRET and have mongodb running on localhost or use a cloud provider
+
 Install all the server/client npm packages npm install --save
 
 Running the app client = npm start server = npm start
