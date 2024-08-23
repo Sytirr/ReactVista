@@ -19,9 +19,11 @@ Voice Navigation commands:-
 4. go to dashboard OR navigate to dashboard => go to your dashboard if logged in.
 
 Scrolling commands:-
+
 5. Scroll down OR move down => for scrolling down
 6. Scroll up OR move up => for scrolling up.
 
 stop Recognition commands:-
+
 7. stop recognition OR stop listening => to stop voice controlling / Recognition
 8. stop voice controlling OR stop voice control OR stop voice recognition => to stop voice controlling / Recognition
